@@ -1,0 +1,47 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<main id="main">
+  <h1 id="title">James Baldwin</h1>
+  <p>A great American citizen of the world</p>
+  <figure id="img-div">
+    <img id="image" src="//live.staticflickr.com/2614/5697590366_09d13c17e8.jpg" alt="James Baldwin, seen near his typewriter" />
+    <figcaption id="img-caption">
+      James baldwin, likely thinking of something that only crossed his mind but modesty would keep him from thinking he was the first to think it.</figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">A timeline of James baldwins life</h3>
+    <ul>
+      <li><strong>1924</strong> - Born in Harlem New York</li>
+      <li>
+        <strong>1937</strong> - Wrote his first article for the school paper and became a youth minster at the age of 14</li>
+      <li>
+        <strong>1942</strong> - He gradutes from high school and leaves the minstery behind. Saying that he could no longer need to seek solace in religon.</li>
+      <li>
+        <strong>1943</strong> - Baldwin's father passes and he moves to Greenwich Village, to pursue writing his own novel.
+        There he would meet many artist create friendships that would last a lifetime. One of which, named Richard Wright, would be a great help in his life.</li>
+      <li>
+        <strong>1945</strong> - with help from Wright, he secures a fellowship to enable his focus on writing.</li>
+      <li>
+        <strong>1948</strong> - Baldwin moves to Paris, France. citing needing a distance from America to help with writing and the general racisim he faced, daily in America.</li>
+      <li>
+        <strong>1953</strong> - Go Tell it to the Mountain, is published. Baldwin said that in order for him to write anything, he needed to write this.</li>
+      <li>
+        <strong>1954</strong> - Baldwin secured another fellowship and used it to write a book about a American living in Paris and dealing with homosexuality. baldwin was open about his homosexuality and called Americas narrowness to the subject a reason why it pursits.</li>
+      <li>
+        <strong>1963</strong> - The Fire Next Time, a colection of essays meant to educate white Americans on what it meant to black. While offering a view of themselves, through the eyes of black Americans.</li>
+      <li>
+        <strong>1970's</strong> - By this time, Balwins belief that America would change started to dwindle. Mainly do to the major murders in the civil rights movement, some of which were his close friends.</li>
+      <li>
+        <strong>1987</strong> - Baldwin dies, in his home in France.</li>
+    </ul>
+    <blockquote cite="https://www.biography.com/writer/james-baldwin">
+      <p>
+        "There is not another writer — white or black — who expresses with such poignancy and abrasiveness the dark realities of the racial ferment in North and South,"
+      </p>
+      <cite>-- Time magazine</cite>
+    </blockquote>
+    <h3>
+      If you care to, you could read more about this American treasure on his
+      <a id="tribute-link" href="https://en.wikipedia.org/wiki/James_Baldwin" target="_blank">Wikipedia entry</a>.
+    </h3>
+  </section>
+</main>
